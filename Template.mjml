@@ -1,0 +1,151 @@
+<mjml>
+    <mj-head>
+        <mj-title><strong>[SGUET]</strong> Thư mời Phỏng vấn viên ban Truyền thông - Tuyển quân S13</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Roboto ,Helvetica, sans-serif"></mj-all>
+            <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+        <mj-style inline="inline">
+            .left {
+            background-color: #4d91eb;
+            margin-right: 5px;
+            }
+
+            .right {
+            background-color: #4d91eb;
+            margin-spacing: 10px;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image href="https://www.facebook.com/SupportGroupUET/" src="https://raw.githubusercontent.com/nvlhuongnoi2005/MJML/refs/heads/main/Cover.jpg"></mj-image>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+                <mj-text align="center" font-weight="900" padding="0px" font-size="22px"><strong>Thư mời Phỏng vấn viên</strong>
+                </mj-text>
+
+                <mj-text align="center" font-weight="900" padding="5px" font-size="22px"><strong>Ban Truyền thông - Tuyển quân S13 </strong>
+                </mj-text>
+                <mj-text align="center" font-weight="500" padding-top="15px" font-size="20px">Câu lạc bộ Hỗ trợ sinh viên - SGUET
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text padding-top="20px">
+                    <p>Thân gửi các anh, chị và các bạn thành viên ban Truyền thông SGUET,</p>
+
+          <p>Lời đầu tiên, chúng em xin gửi lời chúc sức khỏe và lời cảm ơn chân thành đến các anh/chị và các bạn - những người đã góp phần quan trọng tạo nên nền móng vững chắc cho <strong>câu lạc bộ Hỗ trợ Sinh viên Trường Đại học Công nghệ - SGUET.</strong>
+            
+            <p> Trong hành trình <strong> Tuyển quân S13 - HOME SWEET HOME </strong>  sắp tới, thay mặt BCN ban Truyền thông, chúng em rất mong muốn có được sự đồng hành của các anh/chị và các bạn với vai trò phỏng vấn viên cho sự kiện. Kinh nghiệm và cái nhìn sâu sắc của các anh/chị sau thời gian đồng hành cùng SGUET là những giá trị vô cùng quý báu đối với chúng em. Hơn ai hết, chúng em tin rằng với những khả năng đánh giá khách quan, các anh/chị và các bạn sẽ giúp chúng em tìm ra những gương mặt mới thực sự phù hợp để tiếp nối sứ mệnh và giá trị của ban Truyền thông nói chung, SGUET nói riêng.
+                  </p>
+              <p>
+            Chúng em xin phép gửi thông tin cụ thể các buổi Phỏng vấn như sau: </p>
+          <p> <strong>Buổi 1:</strong></p>
+					<ul>
+          <li><strong>🕰️ Thời gian:</strong> 19h00 ngày 21/11/2024.</li>
+					<li><strong>🧭 Địa điểm:</strong> Giảng đường 2, trường Đại học Công nghệ, ĐHQGHN.</li>
+				 </ul>
+
+          <p> <strong>Buổi 2:</strong></p>
+					<ul>
+          <li><strong>🕰️ Thời gian:</strong> 19h00 ngày 22/11/2024.</li>
+					<li><strong>🧭 Địa điểm:</strong> Giảng đường 2, trường Đại học Công nghệ, ĐHQGHN.</li>
+				 </ul>
+            
+             <p> <strong>Buổi 3(Online):</strong></p>
+					<ul>
+          <li><strong>🕰️ Thời gian:</strong> 19h00 ngày 23/11/2024.</li>
+					<li><strong>🧭 Địa điểm:</strong> Microsoft Teams.</li>
+				 </ul>
+            
+Chúng em mong rằng sẽ sớm nhận được sự phản hồi từ các anh/chị và các bạn tham gia vào sự kiện <strong>Tuyển quân S13: HOME SWEET HOME</strong> sắp tới.
+
+        </mj-text>
+
+            </mj-column>
+
+            <mj-column width="40%" vertical-align="middle">
+                <mj-button background-color="#4d91eb" color="#ffffff" font-size="15px" href="https://forms.gle/rcu9uQKh41WqQVhE8">
+                    Xác nhận tham gia 
+                      vòng Phỏng vấn</mj-button>
+  
+
+            </mj-column>
+
+
+            <mj-column width="100%" padding-top="5px">
+
+                <mj-text>
+                    <p>Thay mặt BCN ban Truyền thông,</p>
+                    <p>
+                        <strong>
+                            <i>Nguyễn Văn Lập</i>
+                        </strong>
+                    </p>
+                </mj-text>
+
+
+                <mj-spacer height="50px"></mj-spacer>
+
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+
+            <mj-column width="100%">
+                <mj-divider border-width="0.5px" border-color="#616161" width="80%"></mj-divider>
+            </mj-column>
+
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image href="https://www.facebook.com/SupportGroupUET" src="https://raw.githubusercontent.com/nyvietnam/mjml/main/logo-sguet.png">
+                </mj-image>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-size="15px">
+                    <strong>Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET</strong>
+                </mj-text>
+
+                <mj-text line-height="18px">
+                    <p>
+                        <strong>Email:</strong>
+                        <a href="mailto:lienhe.sguet@gmail.com">lienhe.sguet@gmail.com</a>
+                    </p>
+                    <p>
+                        <strong>Fanpage:</strong>
+                        <a href="facebook.com/SupportGroupUET">facebook.com/SupportGroupUET</a>
+                    </p>
+                    <p>
+                        <strong>Địa chỉ:</strong>
+                        144 Xuân Thủy, Dịch Vọng, Cầu Giấy, Hà Nội.
+                    </p>
+                    <p>
+                        <strong>Điện thoại:</strong>
+                        0868109250 - Chủ nhiệm Nguyễn Thị Thanh Lam
+                    </p>
+                </mj-text>
+
+                <mj-social align="center" icon-size="30px">
+                    <mj-social-element href="https://www.facebook.com/SupportGroupUET" name="facebook"></mj-social-element>
+                    <mj-social-element href="https://www.youtube.com/c/SGUET/" name="youtube"></mj-social-element>
+                    <mj-social-element href="https://www.instagram.com/my.sguet/" name="instagram"></mj-social-element>
+                    <mj-social-element href="mailto:lienhe.sguet@gmail.com" name="google"></mj-social-element>
+    
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
