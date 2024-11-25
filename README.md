@@ -25,6 +25,6 @@ Nhìn chung nên hiểu 1 chút, biết 1 chút kiến thức về HTML, một s
 
 - Copy code của cái file đấy ra, ném vào [đây](https://mjml.io/try-it-live)
 
-- Nhìn cách nó compile ra HTML, cố hiểu hiểu 1 chút rồi đổi text + link ảnh, link form blabla, ez hoy
+- Nhìn chung là chỉ cần đổi text đổi hyperlink là được :>
 
 - Sau khi MJML render ra ảnh thì bôi đen phần đó rồi ném vào mail để gửi đi thôi.
